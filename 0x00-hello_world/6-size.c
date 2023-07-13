@@ -2,6 +2,8 @@
 /*
  * main - Entry point
  *
+ * Description: '6-size.c'
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
