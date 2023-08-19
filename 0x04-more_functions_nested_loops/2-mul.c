@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  *mul- multiplies two integers
  *@a:recieved an integer
  *@b: recieves an integer
