@@ -1,6 +1,9 @@
 #include <stdio.h>
 /*
- * mul- 
+ *mul- multiplies two integers
+ *@a:recieved an integer
+ *@b: recieves an integer
+ *Return: multi value
  */
 int mul(int a, int b)
 {
